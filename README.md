@@ -23,7 +23,7 @@ nc -lvnp 1234
 /home/merlin
 $ cat user.txt
 ```
-449b40fe93f78a938523b7e4dcd66d2a
+449b40fe93f78a9***************
 ```
 sudo -l 
 
@@ -32,5 +32,5 @@ sudo -l
 sudo cat /root/root.txt
 
 ```
-101101ddc16b0cdf65ba0b8a7af7afa5
+101101ddc16b0c***************
 ```
